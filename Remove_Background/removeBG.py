@@ -1,7 +1,7 @@
 from rembg import remove
 from PIL import Image
 
-input_ = 'Manh.jpg'
+input_ = 'DSCF3721.jpg'
 output_ = 'removed.png'
 
 input = Image.open(input_)
